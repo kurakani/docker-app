@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-
+<h1> Welcome to the Docker deployed app </h1>
+<h2> Happy learning about Devops</h2>
